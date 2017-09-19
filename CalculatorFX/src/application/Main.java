@@ -9,8 +9,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 
-// starting on Lesson FX 10 - Login Application
-
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
